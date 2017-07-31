@@ -27,7 +27,7 @@ OptionSettings:
     Availability Zones: 'Any 2'
     Cooldown: '300'
     MinSize: '1'
-    MaxSize: '8'
+    MaxSize: '6'
 EnvironmentTier:
   Type: Standard
   Name: WebServer
